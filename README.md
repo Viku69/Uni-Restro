@@ -1,2 +1,2 @@
 # Uni-Restro
-It is an reservation system app for restaurants
+It is a reservation system app for restaurants
